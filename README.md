@@ -133,7 +133,6 @@ The Pharmacy Management System window will open.
 
 ![image alt](https://github.com/parmarrutik/Python_Pharmacy_Management_System/blob/main/Screenshot.png)
 
-
 ---
 
 ## 🚀 Future Enhancements
