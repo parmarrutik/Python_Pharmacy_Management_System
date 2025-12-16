@@ -128,7 +128,7 @@ The Pharmacy Management System window will open.
 * Search & Action Buttons
 * Data Display using TreeView
 
-![Uploading Screenshot (30).png…]()
+![image alt](https://github.com/parmarrutik/Python_Pharmacy_Management_System/blob/main/Screenshot.png)
 
 
 ---
