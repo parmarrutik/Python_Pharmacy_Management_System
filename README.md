@@ -4,6 +4,7 @@ A **desktop-based Pharmacy Management System** built using **Python (Tkinter GUI
 This application helps manage medicines, companies, stock details, and provides CRUD operations with a user-friendly interface.
 
 ---
+NOTE : create D drive in "pharma" folder and add all uploaded files, setup Database and after Run code
 
 ## 📌 Features
 
@@ -46,6 +47,8 @@ Pharmacy-Management-System/
 ---
 
 ## 🗄️ Database Details
+
+download Xampp Software or Mysql workbatch
 
 **Database Name:** `pharmacy`
 
